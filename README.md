@@ -1,4 +1,4 @@
-# #CompetitiveProg
+# # CompetitiveProg
 Source code of `AC` submittion on Competitive Programming Contest: AtCoder & Code Forces. 
 
 ## Contestant Account & Links
