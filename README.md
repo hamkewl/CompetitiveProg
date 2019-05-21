@@ -1,5 +1,5 @@
 # #CompetitiveProg
-Source code of `AC` submittion on Competitive Programming Contest: AtCoder & Code Forces. 
+Source code of `AC` status submittion on Competitive Programming Contest: AtCoder & Code Forces. 
 
 ## Contestant Account & Links
 * AtCoder: [herp_sy](https://atcoder.jp/users/herp_sy)  
