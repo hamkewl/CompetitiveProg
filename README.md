@@ -5,8 +5,8 @@ Source code of `AC` status submittion on Competitive Programming Contest: AtCode
 Contest title (Lowercase alphabet column) + Contest No. + Question + _ + Uniquely determined submission number  
 
 for example:
-* `abc000_1234567` means "AtCoder Begineer Contest 000, submission No. 1234567"  
-* `cfr555_89012345` means "CodeForces Round #555, submission No. 89012345"  
+* `abc000a_1234567` means "AtCoder Begineer Contest 000, Question A, Submission No. 1234567"  
+* `cfr555b_89012345` means "CodeForces Round #555, Question B, Submission No. 89012345"  
 
 ## My Contestant Account & Links
 * AtCoder: [herp_sy](https://atcoder.jp/users/herp_sy)  
