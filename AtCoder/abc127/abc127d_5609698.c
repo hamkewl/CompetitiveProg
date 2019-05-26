@@ -1,3 +1,7 @@
+/*
+	https://atcoder.jp/contests/abc127/submissions/5609698
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
